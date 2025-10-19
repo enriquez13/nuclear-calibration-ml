@@ -18,7 +18,6 @@ A machine learning system for calibrating nuclear spectra using linear regressio
 ## 🛠️ Installation
 ```bash
 git clone https://github.com/enriquez13/nuclear-calibration-ml.git
-cd nuclear-calibration-ml
 pip install -r requirements.txt
 
 💻 Usage
@@ -54,6 +53,7 @@ Scientific Computing
 Statistical Validation
 
 Python Programming
+
 
 
 
